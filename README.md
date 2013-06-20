@@ -1,9 +1,6 @@
 p5_nex6
 =========
-
-p5_remote is simple remote display library for Processsing, like AirPlay, Miracast... 
-
-![system abstract](fig01.png)
+Sony NEX-6 remote control library for Processsing.
 
 How to use
 =========
